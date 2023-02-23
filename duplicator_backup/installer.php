@@ -55,11 +55,11 @@ namespace {
     LogHandler::init_error_handler();
     class DUPX_Bootstrap
     {
-        const ARCHIVE_FILENAME   = 'ZettaLabs_04aa1667385279c56767_20230223081202_archive.zip';
-        const ARCHIVE_SIZE       = '76245461';
+        const ARCHIVE_FILENAME   = '20230223_zettalabs_3524d0460ecf06269372_20230223113357_archive.zip';
+        const ARCHIVE_SIZE       = '76585137';
         const INSTALLER_DIR_NAME = 'dup-installer';
-        const PACKAGE_HASH       = '04aa166-23081202';
-        const SECONDARY_PACKAGE_HASH = '9680151-23081202';
+        const PACKAGE_HASH       = '3524d04-23113357';
+        const SECONDARY_PACKAGE_HASH = '02e35b0-23113357';
         const VERSION            = '1.5.2.1';
         const MINIMUM_PHP_VERSION = '5.3.8';
         const ZIP_MODE_AUTO    = 0;
